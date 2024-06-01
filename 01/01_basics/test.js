@@ -3,7 +3,7 @@ const accountId = 14453
 let accountEmail= "prihuchaudhary10523@gmail.com"
 var accountPassword="12345"
 accountCity="jaipur"
-accountState;
+let accountState;
 //accountId=1224
 //accountEmail="priya@gmail.com"
 //accountPassword="12234657"
