@@ -6,3 +6,5 @@ accountCity=jaipur
 
 
 console.log(accountId);
+console.log(accountEmail);
+
