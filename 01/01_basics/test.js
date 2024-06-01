@@ -4,9 +4,9 @@ let accountEmail= "prihuchaudhary10523@gmail.com"
 var accountPassword="12345"
 accountCity="jaipur"
 //accountId=1224
-accountEmail="priya@gmail.com"
-accountPassword="12234657"
-accountCity="harayana"
+//accountEmail="priya@gmail.com"
+//accountPassword="12234657"
+//accountCity="harayana"
 
 
 
