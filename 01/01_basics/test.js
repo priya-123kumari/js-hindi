@@ -3,6 +3,7 @@ const accountId = 14453
 let accountEmail= "prihuchaudhary10523@gmail.com"
 var accountPassword="12345"
 accountCity="jaipur"
+accountState;
 //accountId=1224
 //accountEmail="priya@gmail.com"
 //accountPassword="12234657"
@@ -12,5 +13,5 @@ accountCity="jaipur"
 
 console.log(accountId);
 console.log(accountEmail);
-console.table([accountEmail,accountPassword,accountId,accountCity]);
+console.table([accountEmail,accountPassword,accountId,accountCity,accountState]);
 
