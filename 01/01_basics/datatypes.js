@@ -7,4 +7,4 @@ let age=18
 console.table([age,isLoggedIn,name])
 console.log(typeof age);
 console.log(typeof "priya");
-//console.log(typeof )
+console.log(typeof isLoggedIn );
