@@ -9,3 +9,4 @@ console.log(typeof age);
 console.log(typeof "priya");
 console.log(typeof isLoggedIn );
 console.log(typeof null);
+console.log(typeof undefined);
