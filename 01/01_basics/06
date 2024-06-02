@@ -13,4 +13,4 @@
 let score=true
 let valueInNumber=Number(score)
 console.log(typeof(valueInNumber))
-console.log(valueInNumbeer)
+console.log(valueInNumber)
