@@ -12,3 +12,4 @@ console.log(4%2)
 str1="hello"
 str2 =" priya"
 str3=str1+str2
+console.log(str3)
