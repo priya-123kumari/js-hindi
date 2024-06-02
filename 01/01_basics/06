@@ -6,7 +6,11 @@
 //let valueInNumber=Number(score)
 //console.log(typeof valueInNumber)
 //console.log(valueInNumber)
-let score=null
+//let score=null
+//let valueInNumber=Number(score)
+//console.log(typeof valueInNumber)
+//console.log(valueInNumber)
+let score=undefined
 let valueInNumber=Number(score)
-console.log(typeof valueInNumber)
+console.log(typeof(valueInNumber))
 console.log(valueInNumber)
