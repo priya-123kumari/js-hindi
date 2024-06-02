@@ -10,7 +10,7 @@
 //let valueInNumber=Number(score)
 //console.log(typeof valueInNumber)
 //console.log(valueInNumber)
-let score=false
+let score="priya"
 let valueInNumber=Number(score)
 console.log(typeof(valueInNumber))
 console.log(valueInNumber)
