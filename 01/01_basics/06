@@ -7,5 +7,5 @@
 //console.log(typeof valueInNumber)
 //console.log(valueInNumber)
 let score=null
-let valueInNumber=number(score)
+let valueInNumber=Number(score)
 console.log(typeof valueInNumber)
