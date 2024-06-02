@@ -1,4 +1,4 @@
-let score="99"
+let score="33abc"
 
 console.log(typeof score);
 
