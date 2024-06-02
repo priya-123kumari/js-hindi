@@ -1,0 +1,14 @@
+let value=3
+let negValue= -value
+console.log(negValue)
+
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2**3)
+console.log(4/2)
+console.log(4%2)
+
+str1="hello"
+str2 =" priya"
+str3=str1+str2
