@@ -10,7 +10,10 @@
 //let valueInNumber=Number(score)
 //console.log(typeof valueInNumber)
 //console.log(valueInNumber)
-let score="priya"
-let valueInNumber=Number(score)
-console.log(typeof(valueInNumber))
-console.log(valueInNumber)
+//let score="priya"
+//let valueInNumber=Number(score)
+//console.log(typeof(valueInNumber))
+//console.log(valueInNumber)
+let isLoggedIn=1
+let booleanIsLoggedIn=boolean(isLoggedIn)
+console.log(booleanIsLoggedIn)
