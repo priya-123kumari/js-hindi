@@ -1,0 +1,5 @@
+let myYoutubename="hiteshchaudharuy@com"
+let anothername=myYoutubename
+anothername="chaiaurcode"
+console.log(myYoutubename)
+console.log(anothername)
