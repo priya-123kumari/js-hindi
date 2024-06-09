@@ -22,6 +22,8 @@ console.log(newString0ne.trim())
 const url="https://hitesh.com/hitesh%20chodhary"
 console.log(url.replace('%20','-'))
 console.log(url.includes('hitesh'))
+
+
 const score=400
 console.log(score)
 
@@ -33,7 +35,7 @@ console.log(balance.toFixed(2));
 
 
 const otherNumber=23.8966;
-console.log(otherNumber.toprecision(3))
+console.log(otherNumber.toPrecision(3))
 
 const hundreds=1000000
 console.log(hundreds.localeString())
