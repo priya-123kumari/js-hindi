@@ -38,4 +38,4 @@ const otherNumber=23.8966;
 console.log(otherNumber.toPrecision(3))
 
 const hundreds=1000000
-console.log(hundreds.localeString())
+console.log(hundreds.toLocaleString('en-IN))
