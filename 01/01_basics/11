@@ -1,3 +1,6 @@
 const name="priya"
 const repocount=50
 console.log(name+repocount+"value")
+
+const gameName=new string('priya')
+console.log(gameName[0])
