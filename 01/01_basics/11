@@ -19,3 +19,6 @@ console.log(newString)
 const newString0ne="   prinya  "
 console.log(newString0ne);
 console.log(newString0ne.trim())
+const url="https://hitesh.com/hitesh%20chodhary"
+console.log(url.replace('%20','-'))
+console.log(url.includes('hitesh'))
