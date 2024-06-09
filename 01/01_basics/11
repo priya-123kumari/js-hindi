@@ -12,3 +12,10 @@ console.log(gameName.toUpperCase())
 console.log(gameName.toLowerCase())
 console.log(gameName.charAt(2))
 console.log(gameName.indexOf('r'))
+const newString=gameName.substring(0,4)
+const anotherString=gameName.slice(-8,4)
+console.log(anotherString)
+console.log(newString)
+const newString0ne="   prinya  "
+console.log(newString0ne);
+console.log(newString0ne.trim())
