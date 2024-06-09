@@ -3,4 +3,5 @@ const repocount=50
 console.log(name+repocount+"value")
 
 const gameName=new String('priya')
-console.log(gameName[0])
+
+console.log(gameName.__proto__)
