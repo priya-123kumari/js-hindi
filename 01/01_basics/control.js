@@ -26,3 +26,10 @@ for(let index=0; index<=10;index++){
     const element=index;
     console.log(element)
 }
+let myArray=["flash","batsman","superman"]
+console.log(myArray.length);
+for (let i = 0; i < array.length; i++) {
+    const element = array[i];
+    console.log(element)
+    
+}
