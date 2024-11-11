@@ -32,7 +32,7 @@ for (let i = 0; i < myArray.length; i++) {
     const element = myArray[i];
     console.log(element)
     
-}*/
+}
 
 
 for (let i = 1; i <= 20; i++) {
@@ -53,4 +53,9 @@ for (let j = 1; j <= 20; j++) {
     
     console.log('value of j is ${j}');
     
+}*/
+let index=0
+while(index<=10){
+    console.log('value of index is ${index}');
+    index=index+2;
 }
