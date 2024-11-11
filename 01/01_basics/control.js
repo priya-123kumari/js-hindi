@@ -37,7 +37,7 @@ for (let i = 0; i < myArray.length; i++) {
 
 for (let i = 1; i <= 20; i++) {
     if(i==5){
-        console.log("detected 5")
+        console.log('detected 5')
         break
     }
     
@@ -47,7 +47,7 @@ for (let i = 1; i <= 20; i++) {
 
 for (let j = 1; j <= 20; j++) {
     if(j==5){
-        console.log("detected 5")
+        console.log('detected 5')
        continue
     }
     
