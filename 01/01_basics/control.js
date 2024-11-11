@@ -56,6 +56,6 @@ for (let j = 1; j <= 20; j++) {
 }*/
 let index=0
 while(index<=10){
-    console.log('value of index is ${index}');
+    console.log(`value of index is ${index}`);
     index=index+2;
 }
