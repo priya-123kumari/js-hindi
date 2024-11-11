@@ -41,6 +41,16 @@ for (let i = 1; i <= 20; i++) {
         break
     }
     
-    console.log('value of 1 is${i}');
+    console.log('value of i is ${i}');
+    
+}
+
+for (let j = 1; j <= 20; j++) {
+    if(j==5){
+        console.log("detected 5")
+       continue
+    }
+    
+    console.log('value of j is ${j}');
     
 }
