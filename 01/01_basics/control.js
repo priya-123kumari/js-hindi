@@ -20,3 +20,5 @@ let val1;
 //val1=null??10;
 val1=undefined??10;
 console.log(val1);
+const iceteaprice=100
+iceteaprice>=80 ? console.log("less than 80"): console.log("more then 80")
