@@ -8,8 +8,8 @@ for (const greet of greetings) {
    // console.log(`each char is ${greet}`)
     
 }
-const map=new map();
+const map=new Map();
 map.set('IN',"india ")
 map.set('USA',"united states of america")
 map.set('FR',"france")
-console.log(map)
+console.log(map);
