@@ -3,3 +3,8 @@ for (const num of arr) {
     console.log(num);
     
 }
+const greetings="hello world"
+for (const greet of greetings) {
+    console.log(`each char is ${greet}`)
+    
+}
