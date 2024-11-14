@@ -33,7 +33,7 @@ for (const key in programming) {
 const coding=["java","py"]
 //coding.forEach(function(val){
    //console.log(val);
-})
+//})
 coding.forEach((item)=>{
    console.log(item);
 })
